@@ -1,2 +1,3 @@
 # Frist Prgram by Abdurahman
-print('لBismillahi Rrahmani Rraheem')
+print('Bismillahi Rrahmani Rraheem')
+print('Hayyakallah!')
