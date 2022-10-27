@@ -1,1 +1,2 @@
-print(10+30)
+# Frist Prgram by Abdurahman
+print('لBismillahi Rrahmani Rraheem')
